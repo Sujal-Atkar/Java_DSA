@@ -1,19 +1,39 @@
 # Java DSA
 
-A collection of Data Structures and Algorithms problems solved in Java.
+A curated collection of Data Structures and Algorithms solutions implemented in Java as part of my placement preparation.
 
-## Repository Goal
+## 🎯 Objective
 
-This repository documents my DSA journey for placement preparation.
+This repository documents my journey of learning DSA by solving problems from platforms like LeetCode. Each solution includes:
+- Problem description
+- Approach
+- Time Complexity
+- Space Complexity
+- Clean and readable Java implementation
 
-## Structure
+## 📂 Repository Structure
 
-- Arrays
+```
+01-Arrays
+02-Strings
+03-HashMap
+04-Stack
+05-Queue
+...
+```
 
-## Solved Problems
+## ✅ Solved Problems
 
-| Problem | Difficulty | Status |
-|----------|------------|--------|
-| 3Sum Closest | Medium | ✅ |
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1 | 3Sum Closest | Medium |
+| 2 | Product of Array Except Self | Medium |
 
-Learning Git and DSA step by step.
+## 🚀 Tech Stack
+
+- Java
+- Git
+- GitHub
+
+---
+**Learning one problem at a time. Building consistency one commit at a time.**  
